@@ -6,8 +6,6 @@ const words = [
   "rede",
   "site",
   "app",
-  "tela",
-  "banco",
   "login",
   "variavel",
   "funcao",
